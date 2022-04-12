@@ -1,0 +1,3 @@
+# apps-aleatorios-em-julia
+
+Assim como meus repositórios de [apps-aleatorios-em-C](https://github.com/hugofolloni/apps-aleatorios-em-c) e [apps-aleatorios-em-java](https://github.com/hugofolloni/apps-aleatorios-em-java), este repositório foi criado com o objetivo de juntar alguns dos projetos para aprender a linguagem Julia no processo de estudo da disciplina Álgebra Linear e Algoritmos, no terceiro período do curso de Ciência da Computação na Universidade Federal do Rio de Janeiro. São projetos básicos, mas que me fizeram entender como eu estava evoluindo no curso.
